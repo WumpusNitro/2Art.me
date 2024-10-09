@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'MintSans';
+	src: url(../../assets/fonts/MintSans-918d188123cb77a625a54bccf35170b0.woff2) format('woff2'),
+	url(../../assets/fonts/MintSans-277674482794c813b953d2c9e62654d7.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
